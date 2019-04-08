@@ -1,0 +1,9 @@
+global-styling:
+  css:
+    theme:
+      css/twig.css: {}
+  js:
+    js/twig.js: {}
+
+  dependencies:
+    - core/jquery
